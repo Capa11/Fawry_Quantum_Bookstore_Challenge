@@ -14,6 +14,6 @@ Java console application for managing an online bookstore.
 ---
 
 ## 🖼️ Screenshots
-![Alt Text](Screenshot 2025-07-08 195315.png)
-![Alt Text](Screenshot 2025-07-08 195636.png)
+![Alt Text](Screenshot1.png)
+![Alt Text](Screenshot2.png)
 
